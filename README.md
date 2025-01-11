@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [dk4200720@gmail.com](mailto:email@example.com)
+Your Name - [Dev](mailto:dk4200720@gmail.com)
 
 Project Link: [https://github.com/Devendra661
-/jit-project](https://github.com/Devendra661/jit-project)
+/jit-project](https://github.com/Devendra661/JIT-Java-Swing-Project)
