@@ -132,7 +132,7 @@ public class Element extends JFrame {
         Connection con = null;
         try {
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-            con = DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName="+DbName+";user=sa;password=dev;encrypt=false;");
+            con = DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName="+DbName+";user=username;password=password;encrypt=false;");
         } catch (Exception e) {
             e.printStackTrace();
         }
